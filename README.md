@@ -9,3 +9,6 @@ This is a homework project to test my understanding of how to refactor an alread
 
 Major change made to base code: adding alt attributes to photos.
 
+![Alt text](image.png)
+
+![Alt text](image-1.png)
